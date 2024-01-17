@@ -1,0 +1,42 @@
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #272727;
+  color: #ffffff;
+  font-family: 'Roboto';
+  height: 80px;
+}
+
+.website-logo {
+  width: 110px;
+  margin-top: 20px;
+}
+
+.lists-container {
+  padding-left: 0px;
+  display: flex;
+  align-items: center;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.list {
+  list-style-type: none;
+  color: #ffffff;
+  margin-left: 16px;
+}
+
+.logout-button {
+  background-color: #4f46e5;
+  border: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: 15px;
+  border-radius: 4px;
+  color: #ffffff;
+}

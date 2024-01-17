@@ -1,0 +1,79 @@
+.container {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 24px;
+}
+
+.specific-job-container {
+  background-color: #272727;
+  border-radius: 16px;
+  padding: 24px;
+  margin: 16px;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.skills-list-container {
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.skills-list {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin: 24px;
+}
+
+.skills-image {
+  width: 50px;
+  margin-right: 12px;
+}
+
+.life-at-company-image {
+  width: 350px;
+  margin-left: 30px;
+  border-radius: 6px;
+}
+
+.similar-job-container {
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.similar-list {
+  list-style-type: none;
+  background-color: #272727;
+  border-radius: 16px;
+  padding: 24px;
+  margin: 16px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  width: 350px;
+}
+
+.visit-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.failure-container {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.failure-view {
+  width: 400px;
+}

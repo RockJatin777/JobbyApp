@@ -1,0 +1,60 @@
+.list {
+  list-style-type: none;
+  background-color: #272727;
+  border-radius: 12px;
+  padding: 16px;
+  margin: 16px;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.employee-type-container {
+  display: flex;
+  align-items: center;
+}
+
+.company-logo {
+  width: 80px;
+  margin: 24px;
+}
+
+.star-icon {
+  color: #fbbf24;
+  width: 16px;
+  margin-right: 6px;
+}
+
+.job-type-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.job-location-container {
+  display: flex;
+  align-items: center;
+}
+
+.location-icon {
+  color: #ffffff;
+  margin-right: 16px;
+}
+
+.bag-icon {
+  color: #ffffff;
+  margin-left: 24px;
+  margin-right: 16px;
+}
+
+.line {
+  background-color: #475569;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.rating-container {
+  display: flex;
+  align-items: center;
+}

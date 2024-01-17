@@ -1,0 +1,29 @@
+.filter-group-container {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.heading1 {
+  font-size: 20px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.employee-container {
+  padding-left: 0px;
+}
+
+.label-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.line {
+  margin-bottom: 20px;
+  margin-top: 24px;
+}
+
+.label {
+  margin-left: 12px;
+}
