@@ -13,13 +13,11 @@ const Navbar = props => {
   return (
     <nav className="nav-container">
       <Link to="/" className="link">
-        <li className="list">
-          <img
-            src="https://assets.ccbp.in/frontend/react-js/logo-img.png"
-            alt="website logo"
-            className="website-logo"
-          />
-        </li>
+        <img
+          src="https://assets.ccbp.in/frontend/react-js/logo-img.png"
+          alt="website logo"
+          className="website-logo"
+        />
       </Link>
       <ul className="lists-container">
         <Link to="/" className="link">
